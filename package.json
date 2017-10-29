@@ -1,0 +1,16 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "hangman game",
+  "main": "index.js",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jim kelly",
+  "license": "ISC"
+}
